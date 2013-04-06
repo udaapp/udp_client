@@ -7,7 +7,7 @@ public class main {
 
 	static void test() {
 		//test
-
+//aa
 		//UDPサーバ開始
 //		UdpServer server = new UdpServer(PORT);
 //		Thread t = new Thread(server);
