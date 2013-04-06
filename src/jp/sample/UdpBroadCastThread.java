@@ -8,7 +8,7 @@ import java.net.SocketException;
 import java.net.UnknownHostException;
 
 public class UdpBroadCastThread extends Thread {
-
+//tset
 	int  mPort;
 	byte [] mData;
 	boolean mStart;
