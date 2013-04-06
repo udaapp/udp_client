@@ -6,7 +6,7 @@ public class main {
 	static int PORT = 50001;
 
 	static void test() {
-
+//aa
 		//UDPサーバ開始
 //		UdpServer server = new UdpServer(PORT);
 //		Thread t = new Thread(server);
